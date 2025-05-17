@@ -6,7 +6,7 @@
 ## Overview
 
 ### ./Main
-Main will execute all test questions
+Main will execute all questions' Test.java
 
 ### ./Packages
 One question a package
