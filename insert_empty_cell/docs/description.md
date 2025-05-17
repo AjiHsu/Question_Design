@@ -2,6 +2,8 @@
 
 ##### 2025/05/16 by aji hsu
 
+##### level: hard
+
 ---
 You are given an initial array `arr` of integers and a sequence of operations `operations`
 and `numbers` (`operations.length == numbers.length`),
