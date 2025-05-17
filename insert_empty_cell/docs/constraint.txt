@@ -1,0 +1,8 @@
+1. 0 <= arr.size() <= 10^5
+2. operations[i] is either "insert" or "query"
+3.  if (operations[i] == "insert") numbers[i] = { index, number_of_empty_cell }
+    if (operations[i] == "query" ) numbers[i] = { index, -1 }
+4. operations.length == numbers.length
+5. 0 <= operations.length <= 10^5
+6. it is guaranteed that the size of arr will not exceed 10^9 after any operation
+7. it is guaranteed that index always in the bound
